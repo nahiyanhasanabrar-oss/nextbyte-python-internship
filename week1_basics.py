@@ -9,7 +9,7 @@ age = int(input("Enter your age: "))
 # Operators & Basic Calculation
 current_year = 2026
 birth_year = current_year - age
-print(birth_year)
+
 
 print(f"\nHello, {name}! You were born around {birth_year}.")
 
